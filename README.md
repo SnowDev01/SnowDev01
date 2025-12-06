@@ -6,16 +6,6 @@
     alt="Typing Animation"
     height="40"
   />
-</p>
-
-<p align="left" style="margin:0;padding:0;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=SnowDev01&show_icons=true&theme=nord&count_private=true" 
-    height="120" 
-    alt="GitHub Stats"
-  />
-</p>
-
 <div align="left" style="margin:0;padding:0;line-height:1;">
   <h4 style="margin:4px 0;">🧠 Programming Languages</h4>
   <img 
