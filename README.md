@@ -2,7 +2,7 @@
 
 <p align="left">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&width=500&lines=Hi+I'm+Matheus;Computer+Science+Student+%40+UFCG;2D+Game+Developer;Exploring+Code+x+Mind" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&width=500&lines=Hi+,+I'm+Matheus+Fernandes;Computer+Science+Student+%40+UFCG;2D+Game+Developer;Exploring+Code+x+Mind" 
     alt="Typing Animation"
     height="40"
   />
