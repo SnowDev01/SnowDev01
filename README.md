@@ -60,15 +60,8 @@ Building technology that understands both logic and people.
 
 ### 🌐 Connect with me
 
-<p align="left">
-  <a href="https://www.youtube.com/@snow_dev-01" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-1E90FF?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/snow_dev01" target="_blank">
+  <a href="https://www.instagram.com/matheus_fvda/">
     <img src="https://img.shields.io/badge/Instagram-1E90FF?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://discordapp.com/users/snow_dev001" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-1E90FF?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="mailto:eusoumatheusfernandes@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
