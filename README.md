@@ -1,4 +1,4 @@
-<h2 align="left">Sam | Code • Games • Mind</h2>
+<h2 align="left">Matheus Fernandes | Code • Games • Mind</h2>
 
 <p align="left">
   <img 
